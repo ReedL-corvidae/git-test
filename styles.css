@@ -6,3 +6,13 @@
     width: 200px;
     height: 100px;
 }
+
+#couldbetrue {
+    color: chartreuse;
+}
+#maybetrue {
+    color:blueviolet;
+}
+#perhapstrue {
+    color:crimson;
+}
